@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: source2-cm
 data:
-  key2: val2
+  key2: val2-new
